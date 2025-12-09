@@ -117,7 +117,7 @@ body.show-chatbot .chatbot-popup {
   margin-right: -10px;
   padding-top: 2px;
   cursor: pointer;
-  border-radius: 50%;
+  border-radius: 59%;
   background: none;
   transition: 0.2s ease;
 }
@@ -375,7 +375,7 @@ em-emoji-picker {
   width: 100%;
   max-width: 350px;
   visibility: hidden;
-  max-height: 330px;
+  max-height: 360px;
   transform: translateX(-50%);
 }
 
@@ -526,4 +526,5 @@ body.show-emoji-picker em-emoji-picker {
     width: 95%;
     margin: 15% auto;
   }
+
 }
