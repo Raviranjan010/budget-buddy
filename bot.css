@@ -1,4 +1,5 @@
 /* Importing Google Fonts - Inter */
+/* attractive */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
 
 * {
@@ -528,3 +529,4 @@ body.show-emoji-picker em-emoji-picker {
   }
 
 }
+
