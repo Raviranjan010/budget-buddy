@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   // State
+  
   let state = {
       isChatbotOpen: false,
       isChatbotMinimized: false,
@@ -366,4 +367,5 @@ document.addEventListener('DOMContentLoaded', () => {
           recentTransactions: monthlyTransactions.slice(0, 5)
       };
   }
+
 });
